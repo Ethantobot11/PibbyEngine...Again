@@ -10,7 +10,7 @@
       "name": "linc_luajit",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/Aidan63/linc_luajit"
+      "url": "https://github.com/th2l-devs/linc_luajit"
     },
     {
       "name": "extension-androidtools",
